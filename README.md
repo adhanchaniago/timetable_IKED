@@ -8,6 +8,8 @@
 
 ## Screenshot of E-Timetable Portal System
 
-![Image of E-Timetable Portal System]()
+![Image of E-Timetable Portal System](https://raw.githubusercontent.com/mohamadarfakhsy13/timetable_IKED/master/screenshot/E-Timetable%20Portal%20System.png)
+
+![Image of Login page](https://raw.githubusercontent.com/mohamadarfakhsy13/timetable_IKED/master/screenshot/Login%20page.png)
 
 ## Thank you for your time and consideration. :)
